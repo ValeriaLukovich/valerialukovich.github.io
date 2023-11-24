@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>Основной файл index.html</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <h1>Валерия Лукович</h1>
+      <h2>Студент курса "python-разработчик" на Hexlet</h2>
+
+      <hr>
+
+        <section>
+          <h2>Ключевые навыки:</h2>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Python</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Обо мне</h2>
+          <p>
+            Окончила ЧелГУ по специальности "радиационная биология".
+            На протяжении 14 лет работала в ЧОДКБ по специльности "биолог клинической лаборатории". 
+          </p>
+        </section>
+    </main>
+  </body>
+</html>
